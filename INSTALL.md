@@ -3,9 +3,9 @@
 ## Quick Start
 
 ### Step 1: Prepare the Extension
-Ensure all files are in the `devcontext-pro` directory with the following structure:
+Ensure all files are in the `Dev-Context-Pro` directory with the following structure:
 ```
-devcontext-pro/
+Dev-Context-Pro/
 ├── manifest.json
 ├── icons/
 │   ├── icon16.png
@@ -30,7 +30,7 @@ devcontext-pro/
 2. Navigate to `chrome://extensions/`
 3. Toggle **Developer mode** (top right corner)
 4. Click **Load unpacked**
-5. Select the `devcontext-pro` folder
+5. Select the `Dev-Context-Pro` folder
 6. The extension icon will appear in your toolbar
 
 ### Step 3: Pin the Extension & Open Side Panel

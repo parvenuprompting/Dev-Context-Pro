@@ -72,7 +72,7 @@ DevContext Pro is een professionele ontwikkelaarstool ontworpen om het proces va
 2. Open Chrome en ga naar `chrome://extensions/`
 3. Schakel **Developer mode** in (rechtsboven)
 4. Klik op **Load unpacked**
-5. Selecteer de `devcontext-pro` map
+5. Selecteer de `Dev-Context-Pro` map
 6. Klik op het DevContext Pro werkbalkpictogram om de Side Panel te openen
 
 ---
@@ -102,7 +102,7 @@ Configureer het extractiegedrag via het **Preferences** menu:
 ## 🏗️ Architectuur
 
 ```
-devcontext-pro/
+Dev-Context-Pro/
 ├── manifest.json          # Manifest V3 configuratie
 ├── icons/                 # Extensie pictogrammen (16, 32, 48, 128)
 ├── assets/                # Afbeeldingen en visualisaties
